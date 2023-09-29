@@ -1,0 +1,2 @@
+tags distances locations
+barcodes.txt 1 0,0,16
